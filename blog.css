@@ -10,7 +10,6 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
-
 #image{
     background-image:url("logo_blog.jpg");
     width: 150px;
@@ -18,21 +17,18 @@ body{
     background-repeat: no-repeat;
     
 }
-
 ul{
     background-attachment: cover;
     color: rgb(3, 3, 3);
     background-color: rgb(255, 255, 255);
     
 }
-
 #title{
     color:white;
 }
 #content{
     color:white;
 }
-
 #div div{
     width: auto;
     height: auto;
@@ -42,7 +38,6 @@ ul{
     background-image: linear-gradient(to right, purple , yellow);
     margin-top: 50px;
 }
-
 #contain{
     background-color: white;
     width: 400px;
