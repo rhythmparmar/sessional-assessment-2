@@ -17,10 +17,12 @@ xhr.onload = function () {
         let p4 = document.createElement("p");
         let body = document.createTextNode(" body:"+responseJSON[i].body);
         p4.append(body);
+
         div.appendChild(p1);
         div.appendChild(p2);
         div.appendChild(p3);
         div.appendChild(p4);
+        
         document.getElementById("div").appendChild(div);
     }
 }
