@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-image: url("bodyImg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#image{
+    background-image:url("logo_blog.jpg");
+    width: 150px;
+    height: 100px;
+    background-repeat: no-repeat;
+    
+}
+
+ul{
+    background-attachment: cover;
+    color: rgb(3, 3, 3);
+    background-color: rgb(255, 255, 255);
+    
+}
+
+#title{
+    color:white;
+}
+#content{
+    color:white;
+}
+
+#div div{
+    width: auto;
+    height: auto;
+    color: white;
+    border-radius: 17px;
+    border: 2px solid rgb(255, 253, 253);
+    background-image: linear-gradient(to right, purple , yellow);
+    margin-top: 50px;
+}
+
+#contain{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+}
